@@ -66,8 +66,6 @@ ALvin#9999 contact me on discord for any help
 !alert "Make sure to subscribe to ALvinave" 12 (spams the message "Make sure to subscribe to ALvinave" for 12 seconds)
 !alert (spams the message '@everyone' for 10 seconds)
 
-Feel free to comment any questions you have an I will reply ASAP.
-Thanks for watching and downloading!
 
 Stay safe,
 ~ ALvinave
